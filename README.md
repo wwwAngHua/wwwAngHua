@@ -13,5 +13,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+WangHua;+Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things+)](https://git.io/typing-svg)
 
-160 contributions in the last year
+999+ contributions in the last year
 ![](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)

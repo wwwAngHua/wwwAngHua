@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I am a versatile and passionate full-stack developer with a strong background in both software and hardware engineering. My expertise spans across various domains, and I take pride in developing innovative and fun applications.
 
+My Projects: <a href="https://www.t1y.net/">t1y.net</a>, <a href="https://www.kingstudy.vip/">kingstudy.vip</a>
+
 ### About Me
 
 With a keen interest in the latest IT technologies and trends, I thrive on exploring and mastering new skills. Whether it's diving into serverless architectures or experimenting with the latest in cryptocurrency, I am always on the lookout for exciting challenges that push the boundaries of what's possible.
@@ -9,11 +11,12 @@ With a keen interest in the latest IT technologies and trends, I thrive on explo
 ### My Skills
 
 #### Software Development
-- **Frontend:** Vue3, JavaScript, TypeScript, Vite, Axios
-- **Backend:** Golang, Gin, GORM, MySQL, MongoDB
+- **Frontend:** Vue3, React, JavaScript, TypeScript
+- **Backend:** Java, Golang, Gin, GORM, MySQL, MongoDB
+- **Mobile:** Android Native, Flutter, React Native
 
 #### Hardware Development
-- **Microcontrollers:** Arduino, ESP series
+- **Microcontrollers:** Arduino, STM32, ESP series
 
 ### Interests
 

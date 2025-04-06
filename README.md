@@ -11,9 +11,9 @@ With a keen interest in the latest IT technologies and trends, I thrive on explo
 ### My Skills
 
 #### Software Development
-- **Frontend:** Vue3, React, JavaScript, TypeScript
-- **Backend:** Java, Golang, Gin, GORM, MySQL, MongoDB
-- **Mobile:** Android Native, Flutter, React Native
+- **Frontend:** HTML, CSS, Vue3, React, Axios, JavaScript, TypeScript
+- **Backend:** Java, Golang, Gin, GORM, Redis, MySQL, MongoDB, Docker
+- **Mobile:** Android Native, Flutter, React Native (Expo), Weixin
 
 #### Hardware Development
 - **Microcontrollers:** Arduino, STM32, ESP series

@@ -12,7 +12,7 @@ With a keen interest in the latest IT technologies and trends, I thrive on explo
 
 #### Software Development
 - **Frontend:** HTML, CSS, Vue3, React, Axios, JavaScript, TypeScript
-- **Backend:** C#, Java, Golang, Gin, Nginx, GORM, Redis, MySQL, PostgreSQL, MongoDB, Docker, Kubernetes
+- **Backend:** C#, Java, Golang, Gin, Fiber, Nginx, GORM, Redis, MySQL, PostgreSQL, MongoDB, Docker, Kubernetes
 - **Mobile:** Android Native, Flutter, React Native (Expo), Weixin
 
 #### Hardware Development

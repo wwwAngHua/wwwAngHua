@@ -2,7 +2,7 @@
   <span style="
     display: inline-block;
     width: 320px;
-    height: 100px;
+    height: 50px;
     overflow: hidden;
     border-radius: 8px;
   ">

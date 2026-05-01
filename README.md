@@ -3,12 +3,16 @@
   <img src="https://komarev.com/ghpvc/?username=wwwanghua" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite" />
   <img src="https://img.shields.io/badge/Vue-3-green?logo=vue.js" />
   <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript" />
-  <img src="https://img.shields.io/badge/Go-1.23-00ADD8?logo=go" />
-  <img src="https://img.shields.io/badge/Java-17-red?logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-ESNext-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript" />
+  <img src="https://img.shields.io/badge/Go-1.26-00ADD8?logo=go" />
+  <img src="https://img.shields.io/badge/MongoDB-8.0-47A248?logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-9.0-4479A1?logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-18-336791?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-7.4-DC382D?logo=redis" />
   <img src="https://img.shields.io/badge/Android-Platform-green?logo=android" />
   <img src="https://img.shields.io/badge/iOS-Platform-black?logo=apple" />
   <img src="https://img.shields.io/badge/ESP32-Embedded-E7352C?logo=espressif" />
@@ -18,5 +22,5 @@
 </p>
 
 - <small>Full Stack Developer</small>
-- <small>Focus on Vue3 / React / TypeScript / Go</small>
-- <small>Interested in Cloud Computing & Serverless</small>
+- <small>Focus on Vue3 / React / TypeScript / Go / Redis / PostgreSQL</small>
+- <small>Focused on Cloud Computing & Serverless — pursuing the art of minimalist but powerful architectures.</small>
